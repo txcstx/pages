@@ -8,7 +8,7 @@
 * 十五楼鸟儿（李文博） <a href="http://www.birdol.com" target="_blank">www.birdol.com</a>
 * 流年（王辉） <a href="http://www.huisem.com" target="_blank">www.huisem.com</a>
 * 天兴（冯美杰） <a href="http://www.txcstx.cn" target="_blank">www.txcstx.cn</a>
-* 信心（邱国烨） <a href="http://www.txcstx.cn" target="_blank">www.txcstx.cn</a>
+* 信心（邱国烨） <a href="http://www.flagpolesky.com" target="_blank">www.flagpolesky.com</a>
 
 ##联系我们
 欢迎在项目的[issue](https://github.com/qianduanzhilu/pages/issues)中提问，我们会在那里进行回答。
